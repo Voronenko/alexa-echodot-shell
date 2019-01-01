@@ -1,0 +1,10 @@
+{
+  "name": "alexa-node-client-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alexa.js",
+  "dependencies": {
+    "alexa-remote2": "^0.6.1"
+  },
+  "devDependencies": {}
+}

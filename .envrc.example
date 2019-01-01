@@ -1,0 +1,2 @@
+export AMAZON_USER=EMAIL
+export AMAZON_PASS=PASS
